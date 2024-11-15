@@ -14,17 +14,13 @@ IP-CIDR,219.146.1.66/32,no-resolve
 
 # 自用直连
 DOMAIN-SUFFIX,ntp.org
-DOMAIN-SUFFIX,lanhaijiasu.com
-DOMAIN-SUFFIX,lanhai02.app
-DOMAIN-SUFFIX,lanhai.app
-DOMAIN-SUFFIX,dy.aack.top
 DOMAIN-SUFFIX,wsks.net
 DOMAIN-SUFFIX,btsj6.com
-DOMAIN-SUFFIX,aack.top
 DOMAIN-SUFFIX,v4.plex.tv
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,wzy2016.com
+DOMAIN-SUFFIX,wzy2024.com
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,kp.m-team.cc
@@ -35,6 +31,21 @@ DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,cinefiles.info
 DOMAIN-SUFFIX,synology.com
+
+# 机场官网
+DOMAIN-SUFFIX,bygcloud.com
+DOMAIN-SUFFIX,lanhaijiasu.com
+DOMAIN-SUFFIX,lanhai02.app
+DOMAIN-SUFFIX,lanhai.app
+DOMAIN-SUFFIX,flowercloud.net
+DOMAIN-SUFFIX,y-too.com
+DOMAIN-SUFFIX,amytele.net
+DOMAIN-SUFFIX,naiixi.com
+DOMAIN-SUFFIX,boostnet1.com
+DOMAIN-SUFFIX,qw-ble.02000.net
+DOMAIN-SUFFIX,qw.bluetile.cloud
+DOMAIN-SUFFIX,px.bluetile.buzz
+DOMAIN-SUFFIX,hongxingdl.com
 
 # 360
 DOMAIN-SUFFIX,360.com
